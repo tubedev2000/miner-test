@@ -1,0 +1,17 @@
+{
+  "name": "miner-test-port",
+  "version": "1.0.0",
+  "license": "0BSD",
+  "authors": "tubedev2000",
+  "main": "minertest.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tubedev2000/miner-test-port.git"
+  },
+  "dependencies": {
+    "cuckaroo29b-hashing": "https://github.com/tubedev2000/node-cuckaroo29b-hashing.git"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
